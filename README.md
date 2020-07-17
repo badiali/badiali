@@ -5,17 +5,19 @@
 <p class="center">
   👨‍ 💻 Mis proyectos <a href="https://badiali.es">https://badiali.es</a><br>
   📝  Escribo en <a href="https://dev.to/badiali">https://dev.to/badiali</a><br>
-  💬  Pregúntame por <strong>HTML, CSS, SASS, Bootstrap, Wordpress, Gulp, Diseño...</strong><br>
+  💬  Pregúntame por <strong>HTML, CSS, SASS, Javascript, Bootstrap, Wordpress, Gulp, Diseño...</strong><br>
   📫  Contacto <a href="info@badiali.es"><strong>info@badiali.es</strong></a>
 </p>
 
 <p align="center">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="48" height="48"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="48" height="48"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/>
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="48" height="48"/>
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css" width="48" height="48"/>
   <img src="https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="48" height="48"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/>
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/>
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="48" height="48"/>
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/wordpress/wordpress-original.svg" alt="wordpress" width="48" height="48"/>
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="48" height="48"/>
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="48" height="48"/>
 </p>
 
 <p align="center">
