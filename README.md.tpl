@@ -1,17 +1,16 @@
+<img src="https://repository-images.githubusercontent.com/280498248/c7be2b80-c896-11ea-8513-5c27da4476f0">
+
 <h1 align="center">Hola 👋, soy badiali</h1>
 <h3 align="center">Diseño y Frontend 👨‍💻 apasionado del mar 🌊 la vela 🌬 ⛵️ y el arte 🎨</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=badiali" alt="badiali" /> </p>
 
-<p class="center">
-  👨‍ 💻 Mis proyectos <a href="https://badiali.es"><strong>https://badiali.es</strong></a><br>
-  📝 Escribo en <a href="https://dev.to/badiali"><strong>https://dev.to/badiali</strong></a><br>
+<p align="left">
+  👨‍ 💻 Mis proyectos <a href="https://badiali.es" target="_blank"><strong>https://badiali.es</strong></a><br>
+  📝 Escribo en <a href="https://dev.to/badiali" target="_blank"><strong>https://dev.to/badiali</strong></a><br>
+  <strong>Este es mi último artículo:</strong><br>
+  ✏️ %{{latest_article}}%<br>
   💬 Pregúntame por <strong>HTML, CSS, SASS, Javascript, Bootstrap, Wordpress, Gulp, Diseño...</strong><br>
   📫 Contacto <a href="info@badiali.es"><strong>info@badiali.es</strong></a>
-</p>
-
-<p class="center">
-  <strong>Mi último artículo</strong><br>
-  ✏️ %{{latest_article}}%
 </p>
 
 <p align="center">
@@ -26,19 +25,19 @@
 </p>
 
 <p align="center">
-  <a href="https://codepen.io/badiali" target="blank">
+  <a href="https://codepen.io/badiali" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="badiali" height="%{{icon_size}}%" width="%{{icon_size}}%" />
   </a>
-  <a href="https://dev.to/badiali" target="blank">
+  <a href="https://dev.to/badiali" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="badiali" height="%{{icon_size}}%" width="%{{icon_size}}%" />
   </a>
-  <a href="https://twitter.com/badiali" target="blank">
+  <a href="https://twitter.com/badiali" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="badiali" height="%{{icon_size}}%" width="%{{icon_size}}%" />
   </a>
-  <a href="https://linkedin.com/in/badiali" target="blank">
+  <a href="https://linkedin.com/in/badiali" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="badiali" height="%{{icon_size}}%" width="%{{icon_size}}%" />
   </a>
-  <a href="https://instagram.com/badiali" target="blank">
+  <a href="https://instagram.com/badiali" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="badiali" height="%{{icon_size}}%" width="%{{icon_size}}%" />
   </a>
 </p>
