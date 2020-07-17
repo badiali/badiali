@@ -3,10 +3,10 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=badiali" alt="badiali" /> </p>
 
 <p class="center">
-  👨‍ 💻 Mis proyectos <a href="https://badiali.es">https://badiali.es</a><br>
-  📝  Escribo en <a href="https://dev.to/badiali">https://dev.to/badiali</a><br>
-  💬  Pregúntame por <strong>HTML, CSS, SASS, Javascript, Bootstrap, Wordpress, Gulp, Diseño...</strong><br>
-  📫  Contacto <a href="info@badiali.es"><strong>info@badiali.es</strong></a>
+  👨‍ 💻 Mis proyectos <a href="https://badiali.es"><strong>https://badiali.es</strong></a><br>
+  📝 Escribo en <a href="https://dev.to/badiali"><strong>https://dev.to/badiali</strong></a><br>
+  💬 Pregúntame por <strong>HTML, CSS, SASS, Javascript, Bootstrap, Wordpress, Gulp, Diseño...</strong><br>
+  📫 Contacto <a href="info@badiali.es"><strong>info@badiali.es</strong></a>
 </p>
 
 <p align="center">
