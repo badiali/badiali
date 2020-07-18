@@ -1,11 +1,13 @@
 # This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
 
+# cron: "0 0 * * *" al final de cada día
+
 name: Node.js CI
 
 on:
   schedule:
-    - cron: "*/1 * * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   build:
@@ -18,9 +20,8 @@ jobs:
         node-version: 14
     - run: npm install
     - run: npm run update-readme
-    - run: | 
-        git config user.name badiali
-        git config user.email info@badiali.es
-        git add README.md
-        git commit -m "[bot] README Actualizado con la última noticia"
-        git push
+    - run: git config user.name badiali
+    - run: git config user.email info@badiali.es
+    - run: git add README.md
+    - run: git commit -m "[bot] README Actualizado con la última noticia"
+    - run: git push origin master
