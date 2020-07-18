@@ -18,9 +18,8 @@ jobs:
         node-version: 14
     - run: npm install
     - run: npm run update-readme
-    - run: |
-        git config user.name badiali
-        git config user.email info@badiali.es
-        git add README.md
-        git commit -m "[bot] README Actualizado con la última noticia"
-        git push
+    - run: git config user.name badiali
+    - run: git config user.email info@badiali.es
+    - run: git add README.md
+    - run: git commit -m "[bot] README Actualizado con la última noticia"
+    - run: git push origin master
