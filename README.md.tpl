@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/280498248/c7be2b80-c896-11ea-8513-5c27da4476f0">
+<img src="https://repository-images.githubusercontent.com/280498248/a3059a80-c90e-11ea-8026-48e9ae265318">
 
 <h1 align="center">Hola 👋, soy badiali</h1>
 <h3 align="center">Diseño y Frontend 👨‍💻 apasionado del mar 🌊 la vela 🌬 ⛵️ y el arte 🎨</h3>
