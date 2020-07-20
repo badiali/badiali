@@ -1,43 +1,36 @@
-<img src="https://repository-images.githubusercontent.com/280498248/c7be2b80-c896-11ea-8513-5c27da4476f0">
+<img src="https://repository-images.githubusercontent.com/280498248/c0d72900-cae1-11ea-861c-443b6a4b7f83">
 
-<h1 align="center">Hola 👋, soy badiali</h1>
-<h3 align="center">Diseño y Frontend 👨‍💻 apasionado del mar 🌊 la vela 🌬 ⛵️ y el arte 🎨</h3>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=badiali" alt="badiali" /> </p>
+# Hola 👋, soy **badiali**
+### Me dedico al diseño y desarrollo frontend 👨‍💻 apasionado del mar 🌊 la vela 🌬 ⛵️ y el arte 🎨
 
 <p align="left">
-  👨‍ 💻 Mis proyectos <a href="https://badiali.es" target="_blank"><strong>https://badiali.es</strong></a><br>
-  📝 Escribo en <a href="https://dev.to/badiali" target="_blank"><strong>https://dev.to/badiali</strong></a><br>
-  <strong>Este es mi último artículo:</strong><br>
-  ✏️ <a href="https://dev.to/badiali/bootstrap-4-masonry-layout-js-25d2"><strong>Listado  con Bootstrap 4 estilo Masonry sin JS</strong></a><br>
-  💬 Pregúntame por <strong>HTML, CSS, SASS, Javascript, Bootstrap, Wordpress, Gulp, Diseño...</strong><br>
-  📫 Contacto <a href="info@badiali.es"><strong>info@badiali.es</strong></a>
-</p>
-
-<p align="center">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="48px" height="48px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css" width="48px" height="48px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="48px" height="48px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="48px" height="48px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="48px" height="48px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/wordpress/wordpress-original.svg" alt="wordpress" width="48px" height="48px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="48px" height="48px"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="48px" height="48px"/>
-</p>
-
-<p align="center">
   <a href="https://codepen.io/badiali" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="badiali" height="24px" width="24px" />
   </a>
+  &nbsp;
   <a href="https://dev.to/badiali" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="badiali" height="24px" width="24px" />
   </a>
+  &nbsp;
   <a href="https://twitter.com/badiali" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="badiali" height="24px" width="24px" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/badiali" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="badiali" height="24px" width="24px" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/badiali" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="badiali" height="24px" width="24px" />
   </a>
 </p>
+
+- Mi "landing page" [badiali.es](https://badiali.es) con estilo de LinkTree puedes [descargarla](https://github.com/badiali/badiali.es) y adaptarla (es gratis).
+- Escribo en [dev.to](https://dev.to/badiali)
+- Mi último artículo [Listado  con Bootstrap 4 estilo Masonry sin JS](https://dev.to/badiali/bootstrap-4-masonry-layout-js-25d2)
+- Pregúntame por <strong>Diseño, HTML, CSS, SASS, Javascript, Bootstrap, Wordpress ...</strong>
+- Contacto [info@badiali.es](mailto:info@badiali.es)
+
+---
+
+![Luis Badiali](https://komarev.com/ghpvc/?username=badiali)

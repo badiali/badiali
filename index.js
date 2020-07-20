@@ -14,7 +14,7 @@ const ICON_SIZE_X2 = '48px'
   const {items} = await parser.parseURL('https://dev.to/feed/badiali');
   // latest article
   const [{title, link}] = items
-  const latestArticleMarkdown = `<a href="${link}"><strong>${title}</strong></a>`
+  const latestArticleMarkdown = `[${title}](${link})`
   let newMarkdown = markdownTemplate
     .replace(LATEST_ARTICLE_PLACEHOLDER, latestArticleMarkdown)
     .replace(ICON_SIZE_PLACEHOLDER, ICON_SIZE) // icon size
