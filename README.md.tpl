@@ -20,7 +20,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="badiali" height="%{{icon_size}}%" width="%{{icon_size}}%" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/badiali" target="_blank">
+  <a href="https://instagram.com/dev.badiali" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="badiali" height="%{{icon_size}}%" width="%{{icon_size}}%" />
   </a>
 </p>
