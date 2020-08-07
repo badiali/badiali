@@ -27,7 +27,7 @@
 
 - Mi "landing page" [badiali.es](https://badiali.es) con estilo de LinkTree puedes [descargarla](https://github.com/badiali/badiali.es) y adaptarla (es gratis).
 - Escribo en [dev.to](https://dev.to/badiali)
-- Mi último artículo [Offcanvas menu usando el modal de Bootstrap](https://dev.to/badiali/offcanvas-menu-usando-el-modal-de-bootstrap-emp)
+- Mi último artículo [Off-canvas menu usando el modal de Bootstrap](https://dev.to/badiali/offcanvas-menu-usando-el-modal-de-bootstrap-emp)
 - Pregúntame por <strong>Diseño, HTML, CSS, SASS, Javascript, Bootstrap, Wordpress ...</strong>
 - Contacto [info@badiali.es](mailto:info@badiali.es)
 
