@@ -1,7 +1,7 @@
 <img src="https://repository-images.githubusercontent.com/280498248/c0d72900-cae1-11ea-861c-443b6a4b7f83">
 
 # Hola 👋, soy **badiali**
-### Me dedico al diseño y desarrollo frontend 👨‍💻 apasionado del mar 🌊 la vela 🌬 ⛵️ y el arte 🎨
+### Me dedico al diseño UI/UX y desarrollo frontend 👨‍💻 apasionado del mar 🌊 la vela 🌬 ⛵️ y el arte 🎨
 
 <p align="left">
   <a href="https://codepen.io/badiali" target="_blank">
