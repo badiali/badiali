@@ -5,7 +5,7 @@
 
 - Mi "landing page" [badiali.es](https://badiali.es) con estilo de LinkTree puedes [descargarla](https://github.com/badiali/badiali.es) y adaptarla (es gratis).
 - Escribo en [dev.to](https://dev.to/badiali)
-- Mi último artículo [coinbase + Bootstrap](https://dev.to/badiali/coinbase-bootstrap-45c6)
+- Mi último artículo [Coinbase + Bootstrap](https://dev.to/badiali/coinbase-bootstrap-45c6)
 - Pregúntame por <strong>Diseño, HTML, CSS, SASS, Javascript, Bootstrap, Wordpress ...</strong>
 - Contacto [luis@badiali.es](mailto:luis@badiali.es)
 
