@@ -15,7 +15,7 @@
 - [dev.to](https://dev.to/badiali)
 - [Twitter](https://twitter.com/badiali)
 - [Linkedin](https://linkedin.com/in/badiali)
-- [Instagram](https://instagram.com/dev.badiali)
+- [Instagram](https://instagram.com/badiali)
 
 ---
 
