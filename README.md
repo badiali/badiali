@@ -29,7 +29,7 @@
 - Escribo en [dev.to](https://dev.to/badiali)
 - Mi último artículo [Página principal de coinbase.com maquetada con Bootstrap](https://dev.to/badiali/coinbase-bootstrap-45c6)
 - Pregúntame por <strong>Diseño, HTML, CSS, SASS, Javascript, Bootstrap, Wordpress ...</strong>
-- Contacto [info@badiali.es](mailto:info@badiali.es)
+- Contacto [luis@badiali.es](mailto:luis@badiali.es)
 
 ---
 
