@@ -20,7 +20,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="badiali" height="24px" width="24px" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/dev.badiali" target="_blank">
+  <a href="https://instagram.com/badiali" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="badiali" height="24px" width="24px" />
   </a>
 </p>
@@ -29,7 +29,7 @@
 - Escribo en [dev.to](https://dev.to/badiali)
 - Mi último artículo [Página principal de coinbase.com maquetada con Bootstrap](https://dev.to/badiali/coinbase-bootstrap-45c6)
 - Pregúntame por <strong>Diseño, HTML, CSS, SASS, Javascript, Bootstrap, Wordpress ...</strong>
-- Contacto [info@badiali.es](mailto:info@badiali.es)
+- Contacto [luis@badiali.es](mailto:luis@badiali.es)
 
 ---
 
