@@ -14,14 +14,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v3
       with:
         node-version: 14
     - run: npm install
     - run: npm run update-readme
     - run: git config user.name badiali
-    - run: git config user.email info@badiali.es
+    - run: git config user.email luis@badiali.es
     - run: git add README.md
     - run: git commit -m "[bot] README Actualizado con la última noticia"
     - run: git push origin master
