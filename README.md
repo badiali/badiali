@@ -1,7 +1,7 @@
 <img src="https://repository-images.githubusercontent.com/280498248/c0d72900-cae1-11ea-861c-443b6a4b7f83">
 
 # Hola 👋, soy **badiali**
-### Me dedico al diseño y desarrollo frontend 👨‍💻 apasionado del mar 🌊 la vela 🌬 ⛵️ y el arte 🎨
+### Me dedico al diseño y desarrollo web UX/UI
 
 <p align="left">
   <a href="https://codepen.io/badiali" target="_blank">
@@ -28,7 +28,7 @@
 - Mi "landing page" [badiali.es](https://badiali.es) con estilo de LinkTree puedes [descargarla](https://github.com/badiali/badiali.es) y adaptarla (es gratis).
 - Escribo en [dev.to](https://dev.to/badiali)
 - Mi último artículo [Página principal de coinbase.com maquetada con Bootstrap](https://dev.to/badiali/coinbase-bootstrap-45c6)
-- Pregúntame por <strong>Diseño, HTML, CSS, SASS, Javascript, Bootstrap, Wordpress ...</strong>
+- Pregúntame por <strong>Diseño, HTML, CSS, SASS, Javascript, Astro, Bootstrap, Wordpress ...</strong>
 - Contacto [luis@badiali.es](mailto:luis@badiali.es)
 
 ---
