@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/280498248/2a1c854d-cbc7-4033-9183-2d4226e703cc">
+<img src="https://repository-images.githubusercontent.com/280498248/6e09afd5-420c-4b09-b4ac-1971c045b760">
 
 # Hola 👋, soy **badiali**
 ### Me dedico al diseño y desarrollo web UX/UI
