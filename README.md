@@ -4,25 +4,15 @@
 ### Me dedico al diseño y desarrollo web UX/UI
 
 <p align="left">
-  <a href="https://codepen.io/badiali" target="_blank">
-    Codepen
-  </a>
+  <a href="https://codepen.io/badiali" target="_blank">Codepen</a>
   &nbsp;
-  <a href="https://dev.to/badiali" target="_blank">
-    dev.to
-  </a>
+  <a href="https://dev.to/badiali" target="_blank">dev.to</a>
   &nbsp;
-  <a href="https://twitter.com/badiali" target="_blank">
-    X
-  </a>
+  <a href="https://twitter.com/badiali" target="_blank">Twitter</a>
   &nbsp;
-  <a href="https://linkedin.com/in/badiali" target="_blank">
-    LinkedIn
-  </a>
+  <a href="https://linkedin.com/in/badiali" target="_blank">LinkedIn</a>
   &nbsp;
-  <a href="https://instagram.com/badiali" target="_blank">
-    Instagram
-  </a>
+  <a href="https://instagram.com/badiali" target="_blank">Instagram</a>
 </p>
 
 - Pregúntame por <strong>Diseño, Figma, HTML, CSS, SASS, Javascript, Astro, Bootstrap, Wordpress ...</strong>
