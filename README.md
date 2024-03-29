@@ -3,6 +3,9 @@
 # Hola 👋, soy Luis **Badiali**
 ### Me dedico al diseño y desarrollo web UX/UI
 
+- Pregúntame por <strong>Diseño, Figma, HTML, CSS, SASS, Javascript, Astro, Bootstrap, Wordpress ...</strong>
+- Contacto [luis@badiali.es](mailto:luis@badiali.es)
+
 <p align="left">
   <a href="https://codepen.io/badiali" target="_blank">Codepen</a>
   &nbsp;
@@ -14,9 +17,6 @@
   &nbsp;
   <a href="https://instagram.com/badiali" target="_blank">Instagram</a>
 </p>
-
-- Pregúntame por <strong>Diseño, Figma, HTML, CSS, SASS, Javascript, Astro, Bootstrap, Wordpress ...</strong>
-- Contacto [luis@badiali.es](mailto:luis@badiali.es)
 
 ---
 
