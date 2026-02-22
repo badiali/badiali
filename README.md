@@ -7,13 +7,11 @@
 - Contacto [luis@badiali.es](mailto:luis@badiali.es)
 
 <p align="left">
+  <a href="https://linkedin.com/in/badiali" target="_blank">LinkedIn</a>
+  &nbsp;
   <a href="https://codepen.io/badiali" target="_blank">Codepen</a>
   &nbsp;
-  <a href="https://dev.to/badiali" target="_blank">dev.to</a>
-  &nbsp;
   <a href="https://twitter.com/badiali" target="_blank">Twitter</a>
-  &nbsp;
-  <a href="https://linkedin.com/in/badiali" target="_blank">LinkedIn</a>
   &nbsp;
   <a href="https://instagram.com/badiali" target="_blank">Instagram</a>
 </p>
