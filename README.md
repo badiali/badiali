@@ -12,6 +12,7 @@ Me muevo en el punto donde el diseño se encuentra con la ingeniería. Con más 
 - **CMS:** Custom WordPress Theme Development
 
 ### 🎓 Background
+- **Grado en Diseño Gráfico Multimedia y Creación Digital** (Cursando actualmente)
 - **Desarrollo de Aplicaciones Web (DAW)**
 - **Máster en Diseño Gráfico y Multimedia**
 - **Bachillerato de Artes**
